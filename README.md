@@ -23,7 +23,7 @@ Find a number up to a given number:
 
 ## Comments on Functional Programming
 
-I encountered many erros regarding maximum call stack excess. When calling a certain much amount of iteration, I would use iterative function such as for loop. 
+I encountered many erros regarding maximum call stack excess. When calling a certain much amount of iteration, I would use iterative function such as for loop. It also takes longer than iterative method.
 
 ## Screenshots
 
