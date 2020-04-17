@@ -27,6 +27,10 @@ I encountered many erros regarding maximum call stack excess. When calling a cer
 
 ## Screenshots
 
+<image src="js\prime1.png" width="750px" />
+<image src="js\prime3.png" width="750px" />
+<image src="js\prime2.png" width="750px" />
+
 ## Setup/Installation Requirements
 
 - Clone this [repository](https://github.com/jiwon-seattle/Prime-Shifting-Functional-Programming.git) 
