@@ -21,9 +21,9 @@ Find a number up to a given number:
 5. When you reach number, all the remaining numbers in the list are primes.
 
 
-## Comments on Functional Programming
+## Comments on Recursive Functional Programming
 
-I encountered many erros regarding maximum call stack excess. When calling a certain much amount of iteration, I would use iterative function such as for loop. It also takes longer than iterative method.
+I encountered many errors regarding maximum call stack excess. When calling a certain much amount of iteration, I would use iterative function such as for loop. It also takes longer than iterative method.
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ I encountered many erros regarding maximum call stack excess. When calling a cer
 ## Setup/Installation Requirements
 
 - Clone this [repository](https://github.com/jiwon-seattle/Prime-Shifting-Functional-Programming.git) 
-- Open Index.html with internet browser
+- Open Index.html with Internet browser
 
 ## Known Bugs
 
@@ -42,7 +42,7 @@ No known bugs at this time.
 
 ## Support and contact details
 
-Email jiwon1.han@gmail.com with any questions, feedbacks, or concerns.
+I welcome any feedback! Email me to jiwon1.han@gmail.com.
 
 ## Technologies Used
 
